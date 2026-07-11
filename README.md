@@ -25,10 +25,10 @@
 
 ### 📊 System Telemetry
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=aqibpansare&show_icons=true&theme=tokyonight&description_lines=3" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=aqibpansare&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aqibpansare&show_icons=true&theme=tokyonight&line_height=28" height="195" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=aqibpansare&theme=tokyonight" height="195" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aqibpansare&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aqibpansare&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
